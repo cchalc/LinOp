@@ -1,2 +1,3 @@
 # LinOp
-A linear optimisation problem 
+A linear optimisation problem
+
